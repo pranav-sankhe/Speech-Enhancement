@@ -1,0 +1,9 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.2}
+\contentsline {section}{\numberline {1.1}Task Description}{1}{section.3}
+\contentsline {chapter}{\numberline {2}Two Stream RNN CNN based Encoder}{2}{chapter.4}
+\contentsline {section}{\numberline {2.1}Architecture}{2}{section.5}
+\contentsline {section}{\numberline {2.2}Input Data}{2}{section.6}
+\contentsline {section}{\numberline {2.3}Pre-Training}{2}{section.7}
+\contentsline {section}{\numberline {2.4}Results}{2}{section.8}
+\vspace {2em}
+\vspace {2em}
