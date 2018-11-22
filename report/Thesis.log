@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  22 NOV 2018 07:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  22 NOV 2018 13:17
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -594,55 +594,60 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-) (./Chapters/Chapter2.tex [1
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+[1
 
 
 
-]
+]) (./Chapters/Chapter2.tex [2]
 Chapter 2.
 ------------------------------------------------------------------------------
- 2 Two Stream RNN CNN based Encoder
+ 2 Speech Enhancement by Spectral Subtraction
 ------------------------------------------------------------------------------
-) [2
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+) [3
 
 ]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
 No file Thesis.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 216.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 207.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 207.
 (./Thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 216.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 216.
-
-
-Package rerunfilecheck Warning: File `Thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Thesis.out':
-(rerunfilecheck)             Before: 671F5CD478BCB1BAD46A5C9172F0893B;274
-(rerunfilecheck)             After:  86A1C3453B532705C0A14DC1761B415E;1013.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 216.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 207.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 207.
+Package rerunfilecheck Info: File `Thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 102772328F4DE3F6284D3883AE2322A7;835.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 207.
  ) 
 Here is how much of TeX's memory you used:
- 12859 strings out of 492649
- 182012 string characters out of 6129622
- 253798 words of memory out of 5000000
- 16566 multiletter control sequences out of 15000+600000
+ 12861 strings out of 492649
+ 182033 string characters out of 6129622
+ 255798 words of memory out of 5000000
+ 16569 multiletter control sequences out of 15000+600000
  11670 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,10n,45p,13210b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,11n,45p,13210b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Thesis.pdf (5 pages, 67550 bytes).
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Thesis.pdf (6 pages, 89583 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 90 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
